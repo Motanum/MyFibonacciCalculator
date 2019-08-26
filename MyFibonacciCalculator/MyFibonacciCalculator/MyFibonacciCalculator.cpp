@@ -4,9 +4,15 @@
 #include "pch.h"
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n"; 
+    cout << "Hello World!\n"; 
+
+	cout << "Enter the N Fibonacci number to calculate:\n";
+	 
+	system("pause");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
