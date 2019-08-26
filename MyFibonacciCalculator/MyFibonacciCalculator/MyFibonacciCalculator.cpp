@@ -6,6 +6,11 @@
 
 using namespace std;
 
+int FibonacciCalc(int iInput)
+{
+	return 0;
+}
+
 int main()
 {
     cout << "Hello World!\n"; 
