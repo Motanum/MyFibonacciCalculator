@@ -12,6 +12,11 @@ int main()
 
 	cout << "Enter the N Fibonacci number to calculate:\n";
 	 
+	int clientInput;
+	cin >> clientInput;
+
+	cout << "Your input is: " << clientInput << "\n";
+
 	system("pause");
 }
 
